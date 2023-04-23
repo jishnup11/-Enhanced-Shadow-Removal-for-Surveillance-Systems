@@ -1,5 +1,5 @@
 # -Enhanced-Shadow-Removal-for-Surveillance-Systems
-![flow diagram (2)](flow diagram (2).jpg)
+![flow diagram (2)](flow diagram (2))
 
 * Shadow detection and removal is an important task when dealing with outdoor images. 
 * Shadows  always trouble computer vision tasks like visual navigation, object detection and tracking.
